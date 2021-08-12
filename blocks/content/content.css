@@ -1,0 +1,12 @@
+@import url(../content/__title/content__title.css);
+@import url(../pdf/pdf.css);
+@import url(../photo/photo.css);
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 90%;
+}

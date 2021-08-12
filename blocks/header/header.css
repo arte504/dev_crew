@@ -1,0 +1,6 @@
+@import url(../header/__title/header__title.css);
+
+.header{
+  left: 50%;
+  right: 50%;
+}
