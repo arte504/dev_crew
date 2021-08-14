@@ -1,0 +1,9 @@
+.download{
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 24px;
+  margin-top: 20px;
+}
